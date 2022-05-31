@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\PC ANTIGO\Serratec\5 - APi\API-Atividade2-Grupo-main\.metadata\.plugins\org.eclipse.jdt.core
+4266578625.index
+1457023080.index
+4192743897.index
+3105325953.index
+1865797976.index

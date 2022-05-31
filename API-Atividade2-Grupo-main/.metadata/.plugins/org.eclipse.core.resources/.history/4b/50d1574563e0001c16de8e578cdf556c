@@ -1,0 +1,19 @@
+package com.residencia.comercio.services;
+
+import java.io.IOException;
+
+import org.springframework.beans.factory.annotation.Value;
+
+public class Arquivo2Service {
+	@Value("${pasta.arquivos.imagem}")
+		private String diretorioArquivos;
+	
+	try {
+		
+	}catch(IOException ex) {
+		throw new IOException("Não foi possivel mover o arquivo. - " + ex.getStackTrace());
+	}
+	
+	
+	
+}
